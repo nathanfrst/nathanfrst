@@ -1,16 +1,16 @@
-## Hi there 👋
+__________________________________________
+## 💬 - Quem sou eu:
+Me chamo Nathan atualmente cursando no 1P de Ciências da Computação, sou desenvolvedor de software 
+ 
+__________________________________________
+## 🔭 - Quais são minhas habilidades:
+- C++
+- Python
+- Java
 
-<!--
-**nathanfrst/nathanfrst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__________________________________________
+## 📫 - Como me contatar:
+-email: nathanmouramotta@gmail.com
 
-Here are some ideas to get you started:
+Costumo responder em menos de 24h.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
