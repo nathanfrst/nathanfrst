@@ -2,6 +2,7 @@
 # 💻 - Sobre mim:
 ### Me chamo Nathan
 - Atualmente cursando Ciências da Computação
+  
 Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela.
 
 # 📖 - No que estou focando:
