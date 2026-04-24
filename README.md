@@ -1,6 +1,11 @@
 __________________________________________
 # 💻 - Sobre mim:
-Me chamo Nathan atualmente cursando no 1P de Ciências da Computação, tenho grande interesse na área de tecnológica como um todo, indo do desenvolvimento de softwares até a área de segurança da informação. Sempre busco aprender mais e sou aberto a novas tecnologias. 
+### Me chamo Nathan
+Atualmente estou cursando Ciências da Computação já que desde sempre tive grande interesse na área de tecnologia e suas vertentes.
+
+# No que estou focando:
+- Aprender os fundamentos da segurança da informação.
+- Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
 __________________________________________
 # 🔭 - Quais são minhas habilidades:
 ## Linguagens:
