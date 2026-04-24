@@ -3,7 +3,7 @@ __________________________________________
 ### Me chamo Nathan
 Atualmente estou cursando Ciências da Computação já que desde sempre tive grande interesse na área de tecnologia e suas vertentes.
 
-# No que estou focando:
+# 📖 - No que estou focando:
 - Aprender os fundamentos da segurança da informação.
 - Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
 __________________________________________
@@ -19,7 +19,7 @@ __________________________________________
 - Git e GitHub
 - .NET
 __________________________________________
-#⌛ - Projetos que estou trabalhando:
+# ⌛ - Projetos que estou trabalhando:
 - No momento nenhum significante...
 __________________________________________
 # 📫 - Como me contatar:
