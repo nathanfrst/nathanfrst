@@ -11,8 +11,8 @@ __________________________________________
 - Java
   Conhecimento básico porém estou aprendendo mais sobre, e pretendo utilizar para projetos pessoais assim como C++ e aumentar meu conhecimento.
  ## Ferramentas: 
--Git e GitHub
--.NET
+- Git e GitHub
+- .NET
 __________________________________________
 #⌛ - Projetos que estou trabalhando:
 - No momento nenhum significante...
