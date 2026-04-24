@@ -4,9 +4,11 @@ Me chamo Nathan atualmente cursando no 1P de Ciências da Computação, sou dese
  
 __________________________________________
 ## 🔭 - Quais são minhas habilidades:
+# Linguagens:
 - C++
 - Python
 - Java
+ # Ferramentas: 
 
 __________________________________________
 ## 📫 - Como me contatar:
