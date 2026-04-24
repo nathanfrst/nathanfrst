@@ -1,12 +1,13 @@
 
 # 💻 - Sobre mim:
 ### Me chamo Nathan
-Atualmente estou cursando Ciências da Computação já que desde sempre tive grande interesse na área de tecnologia e suas vertentes.
+-Atualmente cursando Ciências da Computação
+Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela.
 
 # 📖 - No que estou focando:
 Quais assuntos estou estudando no momento
 
-- Aprender os fundamentos da segurança da informação.
+- Aprender os fundamentos da segurança da informação (cybersecurity).
 - Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
 
 # 🔭 - Quais são minhas habilidades:
