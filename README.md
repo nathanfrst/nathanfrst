@@ -1,17 +1,17 @@
 __________________________________________
-## 💬 - Quem sou eu:
+# 💬 - Sobre mim:
 Me chamo Nathan atualmente cursando no 1P de Ciências da Computação, sou desenvolvedor de software 
  
 __________________________________________
-## 🔭 - Quais são minhas habilidades:
-# Linguagens:
+# 🔭 - Quais são minhas habilidades:
+## Linguagens:
 - C++
 - Python
 - Java
- # Ferramentas: 
+ ## Ferramentas: 
 
 __________________________________________
-## 📫 - Como me contatar:
+# 📫 - Como me contatar:
 -email: nathanmouramotta@gmail.com
 
 Costumo responder em menos de 24h.
