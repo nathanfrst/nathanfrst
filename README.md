@@ -21,7 +21,7 @@ Quais assuntos estou estudando no momento
   Conhecimento básico porém estou aprendendo mais sobre, e pretendo utilizar para projetos pessoais assim como C++ e aumentar meu conhecimento.
  ## Ferramentas: 
 - Git e GitHub
-- .NET
+<!-- - .NET -->
 
 # ⌛ - Projetos que estou trabalhando:
 Projetos simples ou complexos
