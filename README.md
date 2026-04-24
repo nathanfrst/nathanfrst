@@ -1,4 +1,4 @@
-__________________________________________
+
 # 💻 - Sobre mim:
 ### Me chamo Nathan
 Atualmente estou cursando Ciências da Computação já que desde sempre tive grande interesse na área de tecnologia e suas vertentes.
@@ -8,7 +8,7 @@ Quais assuntos estou estudando no momento
 
 - Aprender os fundamentos da segurança da informação.
 - Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
-__________________________________________
+
 # 🔭 - Quais são minhas habilidades:
 ## Linguagens:
 - C++
@@ -20,12 +20,12 @@ __________________________________________
  ## Ferramentas: 
 - Git e GitHub
 - .NET
-__________________________________________
+
 # ⌛ - Projetos que estou trabalhando:
 Projetos simples ou complexos
 
 - No momento nenhum...
-__________________________________________
+
 # 📫 - Como me contatar:
 Meios de entrar em contato comigo
 
