@@ -4,6 +4,8 @@ __________________________________________
 Atualmente estou cursando Ciências da Computação já que desde sempre tive grande interesse na área de tecnologia e suas vertentes.
 
 # 📖 - No que estou focando:
+Quais assuntos estou estudando no momento
+
 - Aprender os fundamentos da segurança da informação.
 - Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
 __________________________________________
@@ -20,10 +22,15 @@ __________________________________________
 - .NET
 __________________________________________
 # ⌛ - Projetos que estou trabalhando:
-- No momento nenhum significante...
+Projetos simples ou complexos
+
+- No momento nenhum...
 __________________________________________
 # 📫 - Como me contatar:
--email: nathanmouramotta@gmail.com
+Meios de entrar em contato comigo
 
-Costumo responder em menos de 24h.
+-email: nathanmouramotta@gmail.com
+-telefone: +55 83 99896-5950
+
+Costumo responder emails em menos de 24h, e por favor não ligue se não for importante.
 
