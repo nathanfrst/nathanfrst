@@ -4,7 +4,7 @@
 - Atualmente cursando Ciências da Computação
   
 Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
-bklbkalkfladskf
+
 # 📖 - No que estou focando:
 Quais assuntos estou estudando no momento
 
