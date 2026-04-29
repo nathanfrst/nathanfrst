@@ -1,7 +1,7 @@
 
 # 💻 - Sobre mim:
 ### Me chamo Nathan
-- Atualmente cursando Ciências da Computação - UNIESP
+- Estudante de Ciências da Computação 
   
 Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
 
