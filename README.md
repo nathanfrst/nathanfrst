@@ -11,7 +11,7 @@ Quais assuntos estou estudando no momento
 - Aprender os fundamentos da segurança da informação (cybersecurity).
 - Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
 
-# 🔭 - Quais são minhas habilidades:
+# 🔭 - Hard Skills:
 ## Linguagens:
 - C++
   Tenho um conhecimento intermediário sobre C++ e utilizo em diversos dos meus projetos pessoais.
