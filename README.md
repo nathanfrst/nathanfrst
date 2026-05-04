@@ -26,7 +26,7 @@ Quais assuntos estou estudando no momento
 # ⌛ - Projetos que estou trabalhando:
 Projetos simples ou complexos
 
-- No momento nenhum.
+- Site de Aluguel de Iates (Projeto universitário sobre o basico de HTML e CSS)
 
 # 📫 - Como me contatar:
 Meios de entrar em contato comigo
