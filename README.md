@@ -24,7 +24,7 @@ Quais assuntos estou estudando no momento
 <!-- - .NET -->
 
 # ⌛ - Projetos Concluidos/Em andamento:
-Projetos simples ou complexos que conclui ou estou concluindo.
+Projetos simples ou complexos que conclui ou estou concluindo. Todos estão armazenados em repositórios
 
 - Site de Aluguel de Iates (Projeto universitário sobre o basico de HTML e CSS) - Andamento
 
