@@ -6,10 +6,10 @@
 Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
 
 # 📖 - No que estou focando:
-Quais assuntos estou estudando no momento
+Assuntos que estou estudando no momento, visando aumentar meu conhecimento na área de desenvolvimento e cibersegurança.
 
-- Aprender os fundamentos da segurança da informação (cybersecurity).
-- Aprimorar minhas habilidades de desenvolvimento de software e aprender ainda mais.
+- Rede de computadores.
+- Básico de C++, Python e Java.
 
 # 🔭 - Hard Skills:
 ## Linguagens:
