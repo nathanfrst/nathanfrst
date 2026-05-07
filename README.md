@@ -23,7 +23,7 @@ Quais assuntos estou estudando no momento
 - Git e GitHub
 <!-- - .NET -->
 
-# ⌛ - Projetos que estou trabalhando:
+# ⌛ - Projetos Concluidos/Em andamento:
 Projetos simples ou complexos
 
 - Site de Aluguel de Iates (Projeto universitário sobre o basico de HTML e CSS)
