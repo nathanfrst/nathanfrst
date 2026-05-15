@@ -21,7 +21,7 @@ Assuntos que estou estudando no momento, visando aumentar meu conhecimento na á
   Conhecimento básico porém estou aprendendo mais sobre, e pretendo utilizar para projetos pessoais assim como C++ e aumentar meu conhecimento.
  ## Ferramentas: 
 - Git e GitHub
-<!-- - .NET -->
+<!-- - .NET w-->
 
 # ⌛ - Projetos Concluidos/Em andamento:
 Projetos simples ou complexos que conclui ou estou concluindo. Todos estão armazenados em repositórios aqui no GitHub.
