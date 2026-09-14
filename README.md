@@ -32,7 +32,6 @@ Projetos simples ou complexos que conclui ou estou concluindo. Todos estão arma
 Meios de entrar em contato comigo
 
 -email: nathanmouramotta@gmail.com
--telefone: +55 83 99896-5950
 
-Costumo responder emails em menos de 24h, e por favor não ligue se não for importante.
+Costumo responder emails em menos de 24h,.
 
