@@ -123,29 +123,6 @@ Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laborat
 
 ---
 
-## 📚 Roadmap
-
-```text
-Fundamentos
-    ↓
-Java
-    ↓
-Programação Orientada a Objetos
-    ↓
-Estruturas de Dados & Algoritmos
-    ↓
-SQL & Banco de Dados
-    ↓
-APIs & Backend
-    ↓
-Projetos maiores
-    ↓
-Arquitetura & Boas Práticas
-```
-
-Meu objetivo é construir uma base sólida antes de avançar para sistemas cada vez mais complexos.
-
----
 
 ## 📫 Contato
 
