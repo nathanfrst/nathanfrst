@@ -77,7 +77,7 @@ Também tenho experiência de estudo com Python e estou continuamente explorando
     />
 
 
----
+
 
 ## Projetos
 
