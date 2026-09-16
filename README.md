@@ -3,7 +3,7 @@
 # - Sobre Mim
 Atualmente cursando Ciências da Computação, sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
 
-# 📖 - No que estou focando:
+# - No que estou focando:
 Assuntos que estou estudando no momento, visando aumentar meu conhecimento na área de desenvolvimento e cibersegurança.
 
 - Rede de computadores.
@@ -11,7 +11,7 @@ Assuntos que estou estudando no momento, visando aumentar meu conhecimento na á
 
 <!-- - .NET w-->
 
-# 📫 - Como me contatar:
+# - Como me contatar:
 Meios de entrar em contato comigo
 
 -email: nathanmouramotta@gmail.com
