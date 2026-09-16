@@ -110,33 +110,6 @@ Estou utilizando projetos próprios como forma de consolidar os conceitos estuda
 
 ---
 
-## Principais áreas de estudo
-
-```text
-💻 Programação
-   ├── Java
-   ├── Python
-   └── JavaScript
-
-🧠 Fundamentos
-   ├── Algoritmos
-   ├── Estruturas de dados
-   ├── Lógica de programação
-   └── Programação Orientada a Objetos
-
-🗄️ Dados
-   ├── SQL
-   └── Bancos de dados
-
-🔧 Desenvolvimento
-   ├── Git
-   ├── GitHub
-   ├── APIs
-   └── Linux
-```
-
----
-
 ## Objetivos
 
 * Aprofundar meus conhecimentos em Java
