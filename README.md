@@ -38,15 +38,11 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 <h2>🛠️ Tecnologias</h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>Linguagens</strong><br><br>
-      <img
-        src="https://skillicons.dev/icons?i=java,python"
-        height="50"
-      />
-    </td>
+<h2>🛠️ Tecnologias</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,linux" />
+</p>
 
     <td align="center">
       <strong>Web</strong><br><br>
