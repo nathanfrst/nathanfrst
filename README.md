@@ -75,7 +75,7 @@ Também tenho experiência de estudo com Python e estou continuamente explorando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
-
+----
 
 
 
