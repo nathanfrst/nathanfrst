@@ -1,14 +1,14 @@
-<h1 align="left">Nathan Moura</h1>
+<h1 align="center">Nathan Moura</h1>
 
-<p align="left">
+<p align="center">
   <strong>Desenvolvedor JAVA</strong>
 </p>
 
-<p align="left">
+<p align="center">
   Estudante de Ciência da Computação • Desenvolvimento de Software • Cibersegurança
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:nathanmouramotta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -84,7 +84,7 @@ Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laborat
 
 ## - GitHub Status
 
-<p align="center">
+<p align="left">
   <img
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=nathanfrst&show_icons=true&theme=tokyonight&hide_border=true"
