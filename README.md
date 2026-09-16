@@ -38,7 +38,7 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git" />
 </p>
 
  
