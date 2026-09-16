@@ -95,5 +95,5 @@ Um projeto de jogo simples de puzzle desenvolvido inicialmente em terminal, util
 ---
 
 <p align="center">
-  <i>"The best way to learn programming is to build."</i>
+  <i>"The best way to learn is to build."</i>
 </p>
