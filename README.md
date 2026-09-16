@@ -11,22 +11,7 @@ Assuntos que estou estudando no momento, visando aumentar meu conhecimento na á
 - Rede de computadores.
 - Básico de C++, Python e Java.
 
-# 🔭 - Hard Skills:
-## Linguagens:
-- C++
-  Tenho um conhecimento intermediário sobre C++ e utilizo em diversos dos meus projetos pessoais.
-- Python
-  Principal linguagem utilizada em projetos docentes (faculdade).
-- Java
-  Conhecimento básico porém estou aprendendo mais sobre, e pretendo utilizar para projetos pessoais assim como C++ e aumentar meu conhecimento.
- ## Ferramentas: 
-- Git e GitHub
 <!-- - .NET w-->
-
-# ⌛ - Projetos Concluidos/Em andamento:
-Projetos simples ou complexos que conclui ou estou concluindo. Todos estão armazenados em repositórios aqui no GitHub.
-
-- Site de Aluguel de Iates (Projeto universitário sobre o basico de HTML e CSS) - Andamento
 
 # 📫 - Como me contatar:
 Meios de entrar em contato comigo
