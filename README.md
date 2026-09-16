@@ -76,9 +76,6 @@ Também tenho experiência de estudo com Python e estou continuamente explorando
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
 
-
-> Algumas dessas tecnologias fazem parte do meu processo atual de aprendizado e não representam necessariamente domínio avançado.
-
 ---
 
 ## Projetos
