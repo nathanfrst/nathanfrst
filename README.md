@@ -33,34 +33,6 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 ---
 
-## 🎯 Atualmente estudando
-
-```text
-Java
-├── Fundamentos da linguagem
-├── Programação Orientada a Objetos
-├── Collections
-├── Estruturas de dados
-└── Desenvolvimento de projetos
-
-Fundamentos
-├── Algoritmos
-├── Lógica de programação
-└── Estruturas de dados
-
-Sistemas
-├── Redes de computadores
-└── Linux
-
-Segurança
-└── Fundamentos de cibersegurança
-
-Ferramentas
-├── Git
-└── GitHub
-```
-
----
 
 ## 🛠️ Tecnologias
 
