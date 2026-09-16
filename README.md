@@ -46,20 +46,12 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 ## - Projetos
 
-### ☕ Projetos em Java
+### + Projetos em Java
 
 Projetos desenvolvidos durante meu processo de aprendizado em Java, aplicando conceitos de lógica de programação, Programação Orientada a Objetos, estruturas de dados e organização de código.
 
 <a href="https://github.com/nathanfrst">
   Ver projetos →
-</a>
-
-### 🐍 PythonQuest
-
-Repositório dedicado à prática de programação com Python, contendo exercícios e implementações desenvolvidos para fortalecer lógica, algoritmos e fundamentos da linguagem.
-
-<a href="https://github.com/nathanfrst/pythonquest">
-  Ver repositório →
 </a>
 
 ### 🎮 Projeto em desenvolvimento
