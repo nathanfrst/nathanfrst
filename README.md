@@ -4,11 +4,11 @@
   <strong>Desenvolvedor JAVA</strong>
 </p>
 
-<p align="center">
+<p align="left">
   Estudante de Ciência da Computação • Desenvolvimento de Software • Cibersegurança
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:nathanmouramotta@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
