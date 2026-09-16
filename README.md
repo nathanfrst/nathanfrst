@@ -54,11 +54,14 @@ Projetos desenvolvidos durante meu processo de aprendizado em Java, aplicando co
   Ver projetos →
 </a>
 
-### 🎮 Projeto em desenvolvimento
+### + Projeto em desenvolvimento
 
-Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laboratório para aplicar conceitos de programação e evoluir gradualmente a arquitetura do projeto.
+Um projeto de jogo simples de puzzle desenvolvido inicialmente em terminal, utilizado como laboratório para aplicar conceitos de programação e evoluir gradualmente a arquitetura do projeto.
 
 **Foco:** Java • OOP • Estruturas de dados • Arquitetura
+<a href="[https://github.com/nathanfrst](https://github.com/nathanfrst/roboJAVA)">
+  Ver projetos →
+</a>
 
 ---
 
