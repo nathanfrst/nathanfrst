@@ -82,7 +82,7 @@ Costumo responder emails em menos de 24h,.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)" 
+    src="https://github.com/stats-organization/github-stats-extended" 
   />
 
 <img 
