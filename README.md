@@ -1,6 +1,6 @@
-<h1 align="center">Nathan Moura</h1>
+<h1 align="left">Nathan Moura</h1>
 
-<p align="center">
+<p align="left">
   <strong>Desenvolvedor JAVA</strong>
 </p>
 
