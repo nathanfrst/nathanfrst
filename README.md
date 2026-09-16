@@ -1,10 +1,6 @@
 # Nathan Moura
 **`Desenvolvedor JAVA`**
-# 💻 - Sobre mim:
-### Me chamo Nathan
-- Estudante de Ciências da Computação 
-  
-Sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
+Atualmente cursando Ciências da Computação, sempre tive grande paixão pela tecnologia e hoje estou aprendendo cada dia mais sobre ela, tanto na área de desenvolvimento quanto cibersegurança.
 
 # 📖 - No que estou focando:
 Assuntos que estou estudando no momento, visando aumentar meu conhecimento na área de desenvolvimento e cibersegurança.
