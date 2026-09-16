@@ -39,20 +39,15 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
 ### Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
-</p>
 
 ---
 
