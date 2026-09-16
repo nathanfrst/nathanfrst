@@ -150,7 +150,10 @@ Estou utilizando projetos próprios como forma de consolidar os conceitos estuda
 ---
 
 ## Contato
-<p> <a href="mailto:nathanmouramotta@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
+<p align="center"> 
+  <a href="mailto:nathanmouramotta@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
+  </a>
   
 <p align="center">
   <a href="https://github.com/nathanfrst">
