@@ -77,9 +77,70 @@ Meu objetivo é evoluir gradualmente dos fundamentos para o desenvolvimento de a
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
+<img 
+ alt="Git"
+ title="Git"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+</p>
+
+---
+
+## Projetos
+
+### ☕ Java
+
+Projetos desenvolvidos durante meu processo de aprendizado em Java, com foco em lógica de programação, orientação a objetos, estruturas de dados e desenvolvimento de aplicações.
+
+🔗 [Meus projetos em Java](https://github.com/nathanfrst)
+
+### 🐍 PythonQuest
+
+Repositório criado para praticar fundamentos de Python, algoritmos, estruturas de dados e resolução de problemas.
+
+🔗 [PythonQuest](https://github.com/nathanfrst/pythonquest)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=nathanfrst&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
 <img
-alt="Git"
-title="Git"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/
+ height="180"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanfrst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:nathanmouramotta@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/nathanfrst">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Aprendendo, construindo e evoluindo um projeto de cada vez.</i>
+</p>
