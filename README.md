@@ -36,24 +36,12 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 ## - Tecnologias
 
-<h2>🛠️ Tecnologias</h2>
-
-<h2>🛠️ Tecnologias</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,linux" />
 </p>
 
-    <td align="center">
-      <strong>Web</strong><br><br>
-      <img
-        src="https://skillicons.dev/icons?i=html,css,js"
-        height="50"
-      />
-    </td>
-  </tr>
-</table>
-
+ 
 ---
 
 ## - Projetos
