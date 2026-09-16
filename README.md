@@ -148,7 +148,6 @@ Estou utilizando projetos próprios como forma de consolidar os conceitos estuda
 * Contribuir para projetos open source
 
 ---
-
 ## Contato
 <p align="left"> 
   <a href="mailto:nathanmouramotta@gmail.com"> 
@@ -160,7 +159,6 @@ Estou utilizando projetos próprios como forma de consolidar os conceitos estuda
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <p align="center">
