@@ -1,131 +1,162 @@
-<h1 align="center">Olá, eu sou Nathan Moura</h1>
+<h1 align="center">Nathan Moura</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • Desenvolvedor JAVA
+  <strong>Java Developer in Training</strong>
+</p>
+
+<p align="center">
+  Estudante de Ciência da Computação • Desenvolvimento de Software • Cibersegurança
 </p>
 
 <p align="center">
   <a href="https://github.com/nathanfrst">
-    <img src="https://img.shields.io/github/followers/nathanfrst?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/nathanfrst">
-    <img src="https://img.shields.io/github/stars/nathanfrst?label=Stars&style=for-the-badge" />
+  <a href="mailto:nathanmouramotta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação e atualmente estou aprofundando meus conhecimentos em programação, desenvolvimento de software e fundamentos da computação.
+Sou estudante de **Ciência da Computação** e estou construindo minha carreira na área de tecnologia.
 
-Tenho como foco principal o desenvolvimento com Java, estudando desde fundamentos de programação até Programação Orientada a Objetos, estruturas de dados, APIs, bancos de dados e desenvolvimento de aplicações.
+Atualmente, meu principal foco é o **desenvolvimento de software com Java**, enquanto fortaleço meus conhecimentos em programação, algoritmos, estruturas de dados, redes de computadores e fundamentos de cibersegurança.
 
-Também tenho experiência de estudo com Python e estou continuamente explorando novas tecnologias e ferramentas do ecossistema de desenvolvimento.
-
----
-
-## Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
----
-
-
-
-## Projetos
-
-### Java
-
-Projetos desenvolvidos durante meu processo de aprendizado de Java, com foco em lógica de programação, orientação a objetos e estruturas de dados.
-
-* [Java Projects](https://github.com/nathanfrst)
-
-### Python
-
-Projetos e exercícios desenvolvidos para praticar fundamentos de programação, algoritmos, estruturas de dados e resolução de problemas.
-
-* [PythonQuest](https://github.com/nathanfrst/pythonquest)
-
-### Projetos em desenvolvimento
-
-Estou utilizando projetos próprios como forma de consolidar os conceitos estudados e experimentar novas tecnologias.
+Gosto de aprender através da prática: estudar um conceito, transformá-lo em código e utilizar projetos para entender como as diferentes partes de um sistema se relacionam.
 
 ---
 
-## GitHub Stats
+## 🎯 Atualmente estudando
 
-<p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=nathanfrst&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanfrst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+```text
+Java
+├── Fundamentos da linguagem
+├── Programação Orientada a Objetos
+├── Collections
+├── Estruturas de dados
+└── Desenvolvimento de projetos
+
+Fundamentos
+├── Algoritmos
+├── Lógica de programação
+└── Estruturas de dados
+
+Sistemas
+├── Redes de computadores
+└── Linux
+
+Segurança
+└── Fundamentos de cibersegurança
+
+Ferramentas
+├── Git
+└── GitHub
+```
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
+</p>
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode" />
 </p>
 
 ---
 
-## Objetivos
+## 🚀 Projetos
 
-* Aprofundar meus conhecimentos em Java
-* Desenvolver projetos cada vez mais completos
-* Aprender e aplicar boas práticas de desenvolvimento
-* Estudar estruturas de dados e algoritmos
-* Trabalhar com APIs e bancos de dados
-* Construir experiência prática através de projetos
-* Contribuir para projetos open source
+### ☕ Projetos em Java
+
+Projetos desenvolvidos durante meu processo de aprendizado em Java, aplicando conceitos de lógica de programação, Programação Orientada a Objetos, estruturas de dados e organização de código.
+
+<a href="https://github.com/nathanfrst">
+  Ver projetos →
+</a>
+
+### 🐍 PythonQuest
+
+Repositório dedicado à prática de programação com Python, contendo exercícios e implementações desenvolvidos para fortalecer lógica, algoritmos e fundamentos da linguagem.
+
+<a href="https://github.com/nathanfrst/pythonquest">
+  Ver repositório →
+</a>
+
+### 🎮 Projeto em desenvolvimento
+
+Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laboratório para aplicar conceitos de programação e evoluir gradualmente a arquitetura do projeto.
+
+**Foco:** Java • OOP • Estruturas de dados • Arquitetura
 
 ---
-## Contato
-<p align="center"> 
-  <a href="mailto:nathanmouramotta@gmail.com"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> 
-  </a>
-  
+
+## 📊 GitHub
 
 <p align="center">
-  <i>Sempre aprendendo, construindo e evoluindo.</i>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=nathanfrst&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+
+<img
+ height="180"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanfrst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+## 📚 Roadmap
+
+```text
+Fundamentos
+    ↓
+Java
+    ↓
+Programação Orientada a Objetos
+    ↓
+Estruturas de Dados & Algoritmos
+    ↓
+SQL & Banco de Dados
+    ↓
+APIs & Backend
+    ↓
+Projetos maiores
+    ↓
+Arquitetura & Boas Práticas
+```
+
+Meu objetivo é construir uma base sólida antes de avançar para sistemas cada vez mais complexos.
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="mailto:nathanmouramotta@gmail.com">
+    <img src="https://img.shields.io/badge/nathanmouramotta%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The best way to learn programming is to build."</i>
 </p>
