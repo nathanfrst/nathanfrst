@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## - Sobre mim
 
 Sou estudante de **Ciência da Computação** e estou construindo minha carreira na área de tecnologia.
 
@@ -34,7 +34,7 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 ---
 
 
-## 🛠️ Tecnologias
+## - Tecnologias
 
 ### Linguagens
 
@@ -56,7 +56,7 @@ Gosto de aprender através da prática: estudar um conceito, transformá-lo em c
 
 ---
 
-## 🚀 Projetos
+## - Projetos
 
 ### ☕ Projetos em Java
 
@@ -82,7 +82,7 @@ Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laborat
 
 ---
 
-## 📊 GitHub
+## - GitHub Status
 
 <p align="center">
   <img
@@ -100,7 +100,7 @@ Um projeto de jogo desenvolvido inicialmente em terminal, utilizado como laborat
 ---
 
 
-## 📫 Contato
+## - Contato
 
 <p>
   <a href="mailto:nathanmouramotta@gmail.com">
