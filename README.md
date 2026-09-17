@@ -27,7 +27,7 @@
 
 Sou estudante de **Ciência da Computação** e estou construindo minha carreira na área de tecnologia.
 
-Atualmente, meu principal foco é o **desenvolvimento de software com Java**, enquanto fortaleço meus conhecimentos em programação, algoritmos, estruturas de dados, redes de computadores e fundamentos de cibersegurança.
+Atualmente, meu principal foco é o **desenvolvimento de software com Java**, enquanto fortaleço meus conhecimentos em programação, algoritmos, estruturas de dados, e fundamentos de cibersegurança.
 
 Gosto de aprender através da prática: estudar um conceito, transformá-lo em código e utilizar projetos para entender como as diferentes partes de um sistema se relacionam.
 
