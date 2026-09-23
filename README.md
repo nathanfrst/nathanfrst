@@ -3,7 +3,7 @@
 <p align="center">.
   <strong>Desenvolvedor JAVA</strong>
 </p>
-.
+
 <p align="center">
   Estudante de Ciência da Computação • Desenvolvimento de Software • Cibersegurança
 </p>
