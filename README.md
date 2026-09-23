@@ -1,4 +1,4 @@
-.<h1 align="center">Nathan Moura</h1>
+<h1 align="center">Nathan Moura</h1>
 
 <p align="center">
   <strong>Desenvolvedor JAVA</strong>
